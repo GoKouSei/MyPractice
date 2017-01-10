@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">MyPractice</string>
+    <string name="showExplorer" translatable="false">打开文件管理</string>
+    <string name="no_permission" translatable="false">没有权限</string>
+    <string name="title_activity_body">BodyActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+</resources>
